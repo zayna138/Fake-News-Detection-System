@@ -3,6 +3,10 @@
 ## Project Overview
 This project is a machine learning-based fake news detection system developed using Python and Scikit-learn.
 
+## Dataset
+Dataset used from Kaggle:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 ## Features
 - Detects fake and real news
 - Text preprocessing using TF-IDF Vectorizer
